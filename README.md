@@ -1,7 +1,7 @@
 # Table of contents
 [Team members](#team-members)
 
-[Avatars]
+[Avatars](#avatars)
 
 [Meaning](#meaning)
 
