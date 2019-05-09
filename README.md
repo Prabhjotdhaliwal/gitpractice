@@ -1,5 +1,5 @@
 # Table of contents
-[Team members]
+[Team members](#team-members)
 
 [Avatars](#avatars)
 
