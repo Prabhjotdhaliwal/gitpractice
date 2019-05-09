@@ -1,9 +1,9 @@
 # Table of contents
-[Team members](#team - members)
+[Team members](#teammembers)
 
 [Surname](#Surname)
 
-[Personal deatails](#Personal details)
+[Personal deatails](#Personaldetails)
 
 ## * Team members
 ### * Jasmeet kaur 1896566
