@@ -18,9 +18,9 @@
 ### * javwandha
 
 ##  Personal details
-### * Started a new job.
-### * Working asc a developer.
-### * Pursuing.
-### * Graduated.
+### * Started a new job
+### * Working asc a developer
+### * Pursuing
+### * Graduated
 
 
