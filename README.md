@@ -11,14 +11,11 @@
 ### * Rupinder kaur 1895975
 ### * Gurjeet kaur 1895442
 
-
-
 ## * Surname
 ### * Dhaliwal
 ### * Sidhu
 ### * Sandhu
 ### * javwandha
-
 
 ## * Team members
 ### * Started a new job.
