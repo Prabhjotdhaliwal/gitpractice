@@ -1,26 +1,25 @@
 # Table of contents
 [Team members](#team-members)
 
-[Surname](#surname)
+[Surnames](#surnames)
 
-[Personal details](#personaldetails)
+[Personal details](#meaning)
 
 ## * Team members
-### * Jasmeet kaur 1896566
-### * jot  1896505
-### * Rupinder kaur 1895975
-### * Gurjeet kaur 1895442
+### * Rashmeet kaur 1896566
+### * Prabhjot kaur 1896505
+### * Akvinder kaur 1895975
+### * Simranjeet kaur 1895442
 
-##  Surname
-### * Dhaliwal
-### * Sidhu
+### Surnames
 ### * Sandhu
-### * javwandha
+### * Dhaliwal
+### * gill
+### * natt
 
-##  Personal details
-### * Started a new job
-### * Working asc a developer
-### * Pursuing
-### * Graduated
-
+## personal details 
+#### * working hard
+#### * studying
+#### * performing best
+#### * completed graduation
 
