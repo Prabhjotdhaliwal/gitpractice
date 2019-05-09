@@ -1,1 +1,4 @@
-git practice is not completed yet.
+
+
+git practice is going on but we have no idea when it's going to finish.
+
