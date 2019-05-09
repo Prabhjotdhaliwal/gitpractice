@@ -1,9 +1,9 @@
 # Table of contents
-[Team members](#team-members)
+[Team members](#teammembers)
 
 [Surnames](#surnames)
 
-[Personal details](#meaning)
+[Personal details](#personaldeatils)
 
 ## * Team members
 ### * Rashmeet kaur 1896566
